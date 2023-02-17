@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints out the sentence "Programming is like building a multilingual puzzle"
- *
+ * main - Prints out "Programming is like building a multilingual puzzle
  * Return: Always 0 if exited properly, non-zero otherwise
  */
 int main(void)
@@ -10,5 +9,3 @@ int main(void)
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
-
-
